@@ -1,0 +1,17 @@
+nowTime: 2021-10-21 08:27:31
+epoch = 12  loss = 2.1471555994003824
+lr = 2e-05
+
+nowTime: 2021-10-21 09:05:37
+epoch = 13  loss = 1.997078470018057
+lr = 4.000000000000001e-06
+
+Overall Accuracy is: 81.07
+other : 73.64 yes/no : 95.69 number : 67.13 
+
+Overall Accuracy is: 81.07
+other : 73.64 yes/no : 95.69 number : 67.13 
+
+Overall Accuracy is: 81.07
+other : 73.64 yes/no : 95.69 number : 67.13 
+
